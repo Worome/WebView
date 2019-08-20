@@ -23,6 +23,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="24dp"
+        android:onClick="Cerrar"
         android:text="@string/btn_cerrar"
         android:textSize="24sp"
         app:layout_constraintStart_toStartOf="parent"
