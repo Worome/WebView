@@ -9,7 +9,7 @@
     <WebView
         android:id="@+id/wv1"
         android:layout_width="395dp"
-        android:layout_height="600dp"
+        android:layout_height="500dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
